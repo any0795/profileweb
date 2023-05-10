@@ -1,0 +1,21 @@
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #5c5c5c;
+    color: aliceblue;
+    
+}
+#contact {
+    background-color: #5c5c5c;
+    color: aliceblue;
+    padding-bottom: 5rem;
+}
+
+section {
+    padding-top: 6rem;
+}
+
+body {
+    right: 0;
+    bottom: 0;
+}
